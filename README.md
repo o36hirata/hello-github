@@ -1,2 +1,4 @@
 # hello-github
-GitHubの機能を試すリポジトリ
+
+GitHub の機能を試すリポジトリ
+Git 連載記事の作業用のリポジトリです
